@@ -5,7 +5,8 @@ h1{ color:aqua;
 div{
     border-style: solid;
     background-color: greenyellow;
-    background-color: rgb(51, 56, 43)
+    background-color: rgb(51, 56, 43);
+    margin:50px 400px 50px 10px;
     
 }
     
