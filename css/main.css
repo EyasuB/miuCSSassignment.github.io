@@ -1,25 +1,43 @@
-#header{
-    background-color:yellowgreen;
+
+h1{ color:aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+div{
+    border-style: solid;
+    background-color: greenyellow;
+    background-color: rgb(51, 56, 43)
+    
+}
+    
+    
+    #header{
+   border-top: 10px;
+    border-style:solid;
 
 }
 .body{
     
-    background-color: darkolivegreen;
+    background-color: whitesmoke;
+    margin:100px;
+
 
 }
 .my-mood {
-    size:20px;
+    size:40px;
+}
+p{
+    color:rgb(168, 168, 201)
 }
 
 h2{
-    color:blue;
+    color:rgb(168, 168, 201);
 }
 .Topics{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:
 }
 li{
-    color: red;
+    color:rgb(230, 236, 217);
 }
 p{
     font-style: italic;
